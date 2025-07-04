@@ -45,10 +45,10 @@ function App() {
         >
           <Avatar sx={{ width: 64, height: 64, bgcolor: '#fff', mb: 1 }} />
           <Typography variant="h6" sx={{ fontWeight: 'bold' }}>
-            Your Name
+            Aisosa Oghagbon
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Your title
+            Software Developer
           </Typography>
           {/* Tabs */}
           <Tabs value={tab} onChange={handleTabChange} centered sx={{ mt: 2 }}>
